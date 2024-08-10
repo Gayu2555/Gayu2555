@@ -1,12 +1,34 @@
-- 👋 Hi, I’m Gayu Yunma Ramadhan
-- 👀 I’m interested in Website Development and Android Developer
-- 🌱 I’m currently learning React and Kotlin and Vue.js Too
-- 💞️ I’m looking to collaborate on no no one
-- 📫 you can contact me on email or my social media
-- 😄 Pronouns: you can call me He and Him 
-- ⚡ Fun fact: Every framework what i learn is every JS framework
+# 👋 Halo, Saya Gayu Yunma Ramadhan
 
-<!---
-Gayu2555/Gayu2555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Saya adalah seorang software engineer yang bersemangat dalam pengembangan web, manajemen server, dan menciptakan solusi yang skalabel. Saya telah bekerja dalam berbagai domain termasuk portal berita, sistem absensi, dan setup server. Saya selalu belajar dan mengeksplorasi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi yang lebih baik.
+
+## 🔧 Keahlian & Teknologi
+
+- **Bahasa Pemrograman:** HTML5, CSS, JavaScript, PHP, Python
+- **Framework:** Vue.js, Express.js, Svelte
+- **Tools & Platform:** Apache2, Docker, Laragon, Certbot, Tailwind CSS
+- **Manajemen Server:** Dell PowerEdge Servers, HPE ProLiant Microserver, Solusi Cloud Hosting & VPS/Dedicated Cloud Server
+- **Sistem Operasi Server:** Ubuntu 22.04
+- **Basis Data:** MySQL, PostgreSQL
+- **Minat Lainnya:** HarmonyOS, GPU Adreno, E-commerce, Aplikasi Streaming
+
+## 💻 Proyek
+
+- **[Absensi Karyawan](https://github.com/Gayu2555/Absensi_Karyawan):** Sistem pelacakan kehadiran karyawan yang andal.
+- **[Website and Sorting Feature](https://github.com/Gayu2555/Website-and-Sorting-Feature):** Website dengan fitur pengurutan genre untuk penjelajahan konten yang efisien.
+
+## 🚀 Saat Ini Sedang Dikerjakan
+
+- **Website Portal Berita dengan CMS (Content Management System) dan user login dengan Bahasa Pemrograman HTML5, CSS, PHP, BootstrapCSS, JavaScript, MySQL
+## 📫 Hubungi Saya
+
+- **LinkedIn:** [Profil LinkedIn Anda](https://www.linkedin.com/in/yourprofile)
+- **Email:** [email.anda@example.com](mailto:email.anda@example.com)
+
+## ☕ Dukungan
+
+Jika Anda menikmati proyek saya atau merasa terbantu, jangan ragu untuk [belikan saya kopi](https://buymeacoffee.com/yourusername) untuk mendukung pekerjaan saya!
+
+---
+
+Terima kasih telah mampir, dan jangan ragu untuk mengeksplorasi repositori saya!
