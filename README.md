@@ -27,7 +27,7 @@ Saya adalah seorang software engineer yang bersemangat dalam pengembangan web, m
 
 ## ☕ Dukungan
 
-Jika Anda menikmati proyek saya atau merasa terbantu, jangan ragu untuk [belikan saya kopi](https://buymeacoffee.com/yourusername) untuk mendukung pekerjaan saya!
+Jika anda Menyukai Github ku, jangan lupa untuk Memfollow akun github ku, Terimakasih
 
 ---
 
