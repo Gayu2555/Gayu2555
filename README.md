@@ -22,8 +22,8 @@ Saya adalah seorang software engineer yang bersemangat dalam pengembangan web, m
 - **Website Portal Berita dengan CMS (Content Management System) dan user login dengan Bahasa Pemrograman HTML5, CSS, PHP, BootstrapCSS, JavaScript, MySQL
 ## 📫 Hubungi Saya
 
-- **LinkedIn:** [Profil LinkedIn Anda](https://www.linkedin.com/in/yourprofile)
-- **Email:** [email.anda@example.com](mailto:email.anda@example.com)
+- **LinkedIn:** [Profil LinkedIn Anda](https://www.linkedin.com/in/gayu-yunma-ramadhan-458bb2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [email.anda@example.com](mailto:gayuyunmaramadhan@gmail.com)
 
 ## ☕ Dukungan
 
