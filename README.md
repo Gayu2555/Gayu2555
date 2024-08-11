@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Gayu Yunma Ramadhan
 
-Saya adalah seorang software engineer yang bersemangat dalam pengembangan web, manajemen server, dan menciptakan solusi yang skalabel. Dengan pengalaman berkerja dalam Vendor IT saya telah membuat banyak Inovasi & Solusi yang relevan untuk setiap permasalahan internal yang melibatkan sektor it di Perusahaan maupun Pemerintahan atau Organisasi, sistem absensi, dan setup server. Saya selalu belajar dan mengeksplorasi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi yang lebih baik.
+Saya adalah seorang Programmer dan manajemen server yang dapat menciptakan solusi yang skalabel. Dengan pengalaman berkerja dalam Vendor IT saya telah membuat banyak Inovasi & Solusi yang relevan untuk setiap permasalahan internal yang melibatkan sektor IT di Perusahaan maupun Pemerintahan atau Organisasi, sistem absensi, dan setup server. Saya selalu belajar dan mengeksplorasi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi yang lebih baik.
 
 ## 🔧 Keahlian & Teknologi
 
