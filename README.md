@@ -5,12 +5,12 @@ Saya adalah seorang software engineer yang bersemangat dalam pengembangan web, m
 ## 🔧 Keahlian & Teknologi
 
 - **Bahasa Pemrograman:** HTML5, CSS, JavaScript, PHP, Python
-- **Framework:** Vue.js, Express.js, Svelte
-- **Tools & Platform:** Apache2, Docker, Laragon, Certbot, Tailwind CSS
+- **Framework:** Vue.js, Express.js, Svelte, Tailwind & Bootstrap
+- **Tools & Platform:** Apache2, Nginx, VS Code, MySQL Server, Microsoft Acces, Git & Github 
 - **Manajemen Server:** Dell PowerEdge Servers, HPE ProLiant Microserver, Solusi Cloud Hosting & VPS/Dedicated Cloud Server
 - **Sistem Operasi Server:** Ubuntu 22.04
-- **Basis Data:** MySQL, PostgreSQL
-- **Minat Lainnya:** HarmonyOS, GPU Adreno, E-commerce, Aplikasi Streaming
+- **Basis Data:** MySQL, PostgreSQL, MongoDB, MariaDB, 
+- **Minat Lainnya:** Linux OS, Android, Jaringan, Firewall
 
 ## 💻 Proyek
 
