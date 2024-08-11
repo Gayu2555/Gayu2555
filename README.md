@@ -8,7 +8,7 @@ Saya adalah seorang Programmer dan manajemen server yang dapat menciptakan solus
 - **Framework:** Vue.js, Express.js, Svelte, Tailwind & Bootstrap
 - **Tools & Platform:** Apache2, Nginx, VS Code, MySQL Server, Microsoft Acces, Git & Github, Zabbix, FortiNet
 - **Manajemen Server:** Dell PowerEdge Servers, HPE ProLiant Microserver, Solusi Cloud Hosting & VPS/Dedicated Cloud Server
-- **Sistem Operasi Server:** Ubuntu 22.04
+- **Sistem Operasi Server:** Ubuntu 22.04, Almalinux, Fedora, Windows & Windows Server, DebianOS
 - **Basis Data:** MySQL, PostgreSQL, MongoDB, MariaDB, 
 - **Minat Lainnya:** Linux OS, Android, Jaringan, Firewall
 
