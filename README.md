@@ -1,12 +1,12 @@
 # 👋 Halo, Saya Gayu Yunma Ramadhan
 
-Saya adalah seorang Programmer dan manajemen server yang dapat menciptakan solusi yang skalabel. Dengan pengalaman berkerja dalam Vendor IT saya telah membuat banyak Inovasi & Solusi yang relevan untuk setiap permasalahan internal yang melibatkan sektor IT di Perusahaan maupun Pemerintahan atau Organisasi, sistem absensi, dan setup server. Saya selalu belajar dan mengeksplorasi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi yang lebih baik.
+Saya adalah seorang Programmer dan manajemen server yang dapat menciptakan solusi yang skalabel. Dengan pengalaman berkerja dalam Vendor IT saya telah membuat banyak Inovasi & Solusi yang relevan untuk setiap permasalahan internal yang melibatkan sektor IT di Perusahaan maupun Pemerintahan atau Organisasi, dengan pengalaman membuat berbagai tools untuk kebutuhan client dan melakukan setup & konfigurasi server. Saya selalu belajar dan mengeksplorasi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi yang lebih baik.
 
 ## 🔧 Keahlian & Teknologi
 
 - **Bahasa Pemrograman:** HTML5, CSS, JavaScript, PHP, Python
 - **Framework:** Vue.js, Express.js, Svelte, Tailwind & Bootstrap
-- **Tools & Platform:** Apache2, Nginx, VS Code, MySQL Server, Microsoft Acces, Git & Github 
+- **Tools & Platform:** Apache2, Nginx, VS Code, MySQL Server, Microsoft Acces, Git & Github, Zabbix, FortiNet
 - **Manajemen Server:** Dell PowerEdge Servers, HPE ProLiant Microserver, Solusi Cloud Hosting & VPS/Dedicated Cloud Server
 - **Sistem Operasi Server:** Ubuntu 22.04
 - **Basis Data:** MySQL, PostgreSQL, MongoDB, MariaDB, 
