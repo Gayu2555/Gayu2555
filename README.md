@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Developer** with experience in backend and fronten
 
 
 ## 🏆 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayu2555&show_icons=true&theme=radical. Is that okay?)
+https://github-readme-stats.vercel.app/api?username=Gayu2555&show_icons=true&theme=radical
 
 ## 💻 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
