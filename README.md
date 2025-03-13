@@ -1,9 +1,3 @@
-<p align="center">
-    <img src="https://your-image-link-here.com/logo.png" width="150" alt="Logo">
-</p>
-
-![GitHub Banner](https://your-image-link-here.com/banner.png)
-
 # Hi, I'm [Your Name] 👋
 
 I'm a passionate **Full Stack Developer** with experience in backend and frontend technologies, as well as server management. I specialize in building scalable web applications and optimizing system performance.
@@ -11,28 +5,29 @@ I'm a passionate **Full Stack Developer** with experience in backend and fronten
 ## 🛠 Tech Stack & Expertise
 
 ### 🔹 Backend Development
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20"> **Laravel** (PHP Framework)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20"> **PHP** (Native & Frameworks)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="20"> **Node.js** (Fastify & Express)
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="20"> **MySQL** (Database Management)
+- **Laravel** (PHP Framework)
+- **PHP** (Native & Frameworks)
+- **Node.js** (Fastify & Express)
+- **MySQL** (Database Management)
 
 ### 🔹 Frontend Development
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20"> **JavaScript** (ES6+)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="20"> **Svelte** (Modern UI Framework)
+- **JavaScript** (ES6+)
+- **Svelte** (Modern UI Framework)
 
 ### 🔹 DevOps & Server Management
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="20"> **Ubuntu Server** (Deployment & Optimization)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="20"> **Nginx & Apache** (Web Servers)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="20"> **Docker & CI/CD** (Containerization & Automation)
+- **Ubuntu Server** (Deployment & Optimization)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nginx.svg" width="20" height="20"/> **Nginx** & **Apache** (Web Servers)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cloudflare.svg" width="20" height="20"/> **Cloudflare** (DNS & Security)
+- **Docker & CI/CD** (Containerization & Automation)
 
 ## 📌 Featured Projects
 
-### 🚀 [Project 1 Name](https://github.com/yourusername/project1)
+### 🚀 Project 1 Name
 **Tech Stack:** Laravel, MySQL, TailwindCSS
 - Brief description of what the project does.
 - Key features and functionalities.
 
-### 🌍 [Project 2 Name](https://github.com/yourusername/project2)
+### 🌍 Project 2 Name
 **Tech Stack:** Node.js, Fastify, Svelte
 - Brief description of what the project does.
 - Key features and functionalities.
@@ -45,7 +40,14 @@ I'm a passionate **Full Stack Developer** with experience in backend and fronten
 ## 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
+## 💻 Technologies & Tools
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Security-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
 
 💡 *Always exploring new technologies and improving my skills! Let's build something amazing together!*
-
