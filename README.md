@@ -11,9 +11,10 @@ Saya adalah seorang Programmer dan manajemen server yang dapat menciptakan solus
 - **Sistem Operasi Server:** Ubuntu 22.04, Almalinux, Fedora, Windows & Windows Server, DebianOS
 - **Basis Data:** MySQL, PostgreSQL, MongoDB, MariaDB, 
 - **Minat Lainnya:** Linux OS, Android, Jaringan, Firewall
-  ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-![Fastify](https://fastify.dev/images/fastify-logo-inverted.7a8c5e7f.svg)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 ## 💻 Proyek
