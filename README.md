@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Gayu Yunma Ramadham] 👋
 
 I'm a passionate **Full Stack Developer** with experience in backend and frontend technologies, as well as server management. I specialize in building scalable web applications and optimizing system performance.
 
@@ -24,13 +24,13 @@ I'm a passionate **Full Stack Developer** with experience in backend and fronten
 
 ### 🚀 Project 1 Name
 **Tech Stack:** Laravel, MySQL, TailwindCSS
-- Brief description of what the project does.
-- Key features and functionalities.
+- CMS Portal Berita
+- Laravel Breeze, Laravel Sanctum, Mysql, TailwindCSS
 
 ### 🌍 Project 2 Name
 **Tech Stack:** Node.js, Fastify, Svelte
-- Brief description of what the project does.
-- Key features and functionalities.
+- Frontend & API
+- Svelte & TailwindCSS, Fastify & Prisma Orm, MySQL
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/yourusername](https://github.com/yourusername)
