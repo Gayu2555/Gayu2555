@@ -1,39 +1,100 @@
-# 👋 Halo, Saya Gayu Yunma Ramadhan
+# Backend Portal Berita dengan Fastify
 
-Saya adalah seorang Programmer dan manajemen server yang dapat menciptakan solusi yang skalabel. Dengan pengalaman berkerja dalam Vendor IT saya telah membuat banyak Inovasi & Solusi yang relevan untuk setiap permasalahan internal yang melibatkan sektor IT di Perusahaan maupun Pemerintahan atau Organisasi, dengan pengalaman membuat berbagai tools untuk kebutuhan client dan melakukan setup & konfigurasi server. Saya selalu belajar dan mengeksplorasi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi yang lebih baik.
+## 📌 Deskripsi
+Proyek ini merupakan backend untuk portal berita yang dikembangkan menggunakan **Fastify**, sebuah framework Node.js yang ringan dan cepat. Backend ini menyediakan RESTful API untuk mengelola berita, kategori, pengguna, dan fitur lainnya yang diperlukan dalam sebuah portal berita.
 
-## 🔧 Keahlian & Teknologi
-
-- **Bahasa Pemrograman:** HTML5, CSS, JavaScript, PHP, Python
-- **Framework:** Vue.js, Express.js, Svelte, Tailwind & Bootstrap
-- **Tools & Platform:** Apache2, Nginx, VS Code, MySQL Server, Microsoft Acces, Git & Github, Zabbix, FortiNet
-- **Manajemen Server:** Dell PowerEdge Servers, HPE ProLiant Microserver, Solusi Cloud Hosting & VPS/Dedicated Cloud Server
-- **Sistem Operasi Server:** Ubuntu 22.04, Almalinux, Fedora, Windows & Windows Server, DebianOS
-- **Basis Data:** MySQL, PostgreSQL, MongoDB, MariaDB, 
-- **Minat Lainnya:** Linux OS, Android, Jaringan, Firewall
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## 🚀 Teknologi yang Digunakan
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+- **Node.js** (Runtime JavaScript)
+- **Fastify** (Web Framework)
+- **PostgreSQL** (Database Utama)
+- **Prisma ORM** (Manajemen Database)
+- **Redis** (Caching dan Session Management)
+- **JWT (JSON Web Token)** (Autentikasi)
+- **Swagger** (Dokumentasi API)
+- **Docker** (Containerization)
 
+## 📂 Struktur Direktori
+```
+📦 backend-portal-berita
+├── 📂 src
+│   ├── 📂 controllers   # Handler untuk setiap endpoint
+│   ├── 📂 models        # Model untuk database
+│   ├── 📂 routes        # Definisi routing Fastify
+│   ├── 📂 services      # Business logic
+│   ├── 📂 middlewares   # Middleware untuk autentikasi dan lainnya
+│   ├── app.js          # Inisialisasi Fastify app
+├── 📜 .env.example      # Contoh konfigurasi environment
+├── 📜 docker-compose.yml # Konfigurasi Docker
+├── 📜 prisma.schema     # Skema database untuk Prisma
+├── 📜 package.json      # Konfigurasi npm dan dependencies
+├── 📜 README.md         # Dokumentasi proyek ini
+```
 
-## 💻 Proyek
+## 🛠️ Instalasi dan Menjalankan Proyek
+### 1️⃣ Clone Repository
+```sh
+git clone https://github.com/username/backend-portal-berita.git
+cd backend-portal-berita
+```
 
-- **[Absensi Karyawan](https://github.com/Gayu2555/Absensi_Karyawan):** Sistem pelacakan kehadiran karyawan yang andal.
-- **[Website and Sorting Feature](https://github.com/Gayu2555/Website-and-Sorting-Feature):** Website dengan fitur pengurutan genre untuk penjelajahan konten yang efisien.
+### 2️⃣ Instalasi Dependensi
+```sh
+npm install
+```
 
-## 🚀 Saat Ini Sedang Dikerjakan
+### 3️⃣ Konfigurasi Environment
+Salin file `.env.example` menjadi `.env`, lalu sesuaikan dengan konfigurasi yang dibutuhkan:
+```sh
+cp .env.example .env
+```
 
-- **Website Portal Berita dengan CMS (Content Management System) dan user login dengan Bahasa Pemrograman HTML5, CSS, PHP, BootstrapCSS, JavaScript, MySQL
-## 📫 Hubungi Saya
+### 4️⃣ Jalankan Database dengan Docker
+```sh
+docker-compose up -d
+```
 
-- **LinkedIn:** [Gayu Yunma Ramadhan](https://www.linkedin.com/in/gayu-yunma-ramadhan-458bb2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email:** [gayuyunmaramadhan@gmail.com](mailto:gayuyunmaramadhan@gmail.com)
+### 5️⃣ Jalankan Migrasi Database
+```sh
+npx prisma migrate dev
+```
 
-## ☕ Dukungan
+### 6️⃣ Menjalankan Server Fastify
+```sh
+npm run dev
+```
+Server akan berjalan di `http://localhost:3000`
 
-Jika anda Menyukai Github ku, jangan lupa untuk Memfollow akun github ku, Terimakasih
+## 🔑 Autentikasi
+Gunakan **JWT** untuk mengakses endpoint yang memerlukan autentikasi. Token dapat diperoleh melalui endpoint `/auth/login` dengan mengirimkan email dan password yang valid.
+
+## 📖 Dokumentasi API
+Setelah server berjalan, dokumentasi API dapat diakses melalui **Swagger UI**:
+```
+http://localhost:3000/docs
+```
+
+## 📌 Fitur
+✅ CRUD Berita
+✅ Manajemen Kategori Berita
+✅ Autentikasi dan Otorisasi JWT
+✅ Caching dengan Redis
+✅ Dokumentasi API dengan Swagger
+✅ Dockerized Deployment
+
+## 🤝 Kontribusi
+Pull request selalu terbuka! Silakan fork repo ini dan buat PR untuk perbaikan atau fitur baru.
+
+## 📜 Lisensi
+Proyek ini menggunakan lisensi **MIT**.
 
 ---
+Dikembangkan dengan ❤️ oleh tim Urbansiana.id
 
-Terima kasih telah mampir, dan jangan ragu untuk mengeksplorasi repositori saya!
