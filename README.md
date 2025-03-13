@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Gayu Yunma Ramadhan 👋
 
 I'm a passionate **Full Stack Developer** with experience in backend and frontend technologies, as well as server management. I specialize in building scalable web applications and optimizing system performance.
 
@@ -24,21 +24,21 @@ I'm a passionate **Full Stack Developer** with experience in backend and fronten
 
 ### 🚀 Project 1 Name
 **Tech Stack:** Laravel, MySQL, TailwindCSS
-- Brief description of what the project does.
-- Key features and functionalities.
+- CMS Portal Berita
+- Laravel 12, TailwindCSS, Breeze, Laravel Sanctum, MySQL
 
 ### 🌍 Project 2 Name
 **Tech Stack:** Node.js, Fastify, Svelte
-- Brief description of what the project does.
-- Key features and functionalities.
+- Frontend & Api Backend
+- Fastify, Svelte & TailwindCSS, Prisma 0RM
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **GitHub:** [github.com/Gayuu2555](https://github.com/Gayu2555)
+
+
 
 ## 🏆 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?gayu2555&show_icons=true&theme=radical)
 
 ## 💻 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
