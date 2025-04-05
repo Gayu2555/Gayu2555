@@ -1,4 +1,4 @@
-# Hi, I'm [Gayu Yunma Ramadham] 👋
+# Hi, I'm Gayu Yunma Ramadhan 👋
 
 I'm a passionate **Full Stack Developer** with experience in backend and frontend technologies, as well as server management. I specialize in building scalable web applications and optimizing system performance.
 
